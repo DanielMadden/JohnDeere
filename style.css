@@ -1,0 +1,69 @@
+body {
+  background-color: #d5d5d5;
+}
+
+.teal-bg {
+  background-color: #4C9CC6;
+}
+
+.background-image {
+  background: transparent url('https://spectrum.ieee.org/image/Mjk4NzI0OA.jpeg') no-repeat 70% center /cover;
+}
+
+.the-cards {
+  height: 300px;
+}
+
+.trans-bg {
+  background-color: black;
+  opacity: 0.5
+}
+
+.card-button {
+  background-color: white;
+}
+
+.card {
+  height: auto !important;
+}
+
+.the-card-row {
+  margin: 1em !important;
+}
+
+.custom-card {
+  background-color: rgb(228, 228, 228);
+}
+
+.robo-card {
+  /* height: 100%; */
+  width: 100%;
+}
+
+.bottom-section {
+  background-color: #d5d5d5;
+}
+
+#nav-bar {
+  background-color: white;
+}
+
+#banner {
+  background: transparent url('https://cdn.hipwallpaper.com/i/43/16/QUSkxY.jpg') no-repeat center center /cover;
+  border-top: #4C9CC6 solid 1px;
+  border-bottom: #4C9CC6 solid 1px;
+}
+
+#learn-more {
+  border: #4C9CC6 solid 1px;
+}
+
+#bottom-input-button {
+  width: 10%;
+  background-color: #4C9CC6;
+  border-radius: 0;
+}
+
+#bottom-input {
+  width: 90%;
+}
